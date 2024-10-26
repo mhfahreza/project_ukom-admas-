@@ -1,0 +1,14 @@
+.container{
+    width: 30%;
+    margin-top: 10%;
+    box-shadow: 0 3px 20px;
+    padding: 30px;
+}
+
+.btn{
+    width: 48%;
+}
+.jarak_form{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
